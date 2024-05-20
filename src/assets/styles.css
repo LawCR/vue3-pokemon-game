@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  /* Un fondo oscuro */
+  background-color: #1a202c;
+}
